@@ -255,6 +255,15 @@ fieldset#genreCheckboxes {
   font-size: var(--fs-sm);
 }
 
+.stayOnPageToggle {
+  display: inline-flex; /* align checkbox + text */
+  align-items: center;
+  gap: 0.4rem;
+  margin-right: 0.75rem;
+  margin-bottom: 0.5rem;
+  white-space: nowrap;
+}
+
 /* Dark mode */
 body.dark-mode {
   --bg: #121212;
