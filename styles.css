@@ -1,7 +1,7 @@
 /* CSS variable for colors/spacing/typography */
 :root {
   --bg: #f2f2f2;
-  --bg-card: @fff;
+  --bg-card: #fff;
   --text: #111;
   --muted: #666;
   --border: #d0d0d0;
